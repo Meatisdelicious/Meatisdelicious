@@ -42,7 +42,7 @@
 ## Contact Me 📫
 
 -   Mail : adrien.tirlemont@esme.fr
--   Linkedin : [![Linkedin Badge](https://img.shields.io/badge/-meatisdelicious-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/adrien-tirlemont-11593a168)
+-   Linkedin : [![Linkedin Badge](https://img.shields.io/badge/-Adrien_Tirlemont-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/adrien-tirlemont-11593a168)
 
 <!--
 **Meatisdelicious/Meatisdelicious** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
