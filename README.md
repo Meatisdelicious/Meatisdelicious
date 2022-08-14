@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+
+## About Me 
+- I'm currently studying Artificial intelligence at ESME Sudria in France
+- I'm passionate about computer science, physics and their applications
+
+# Git Stats
+<p align="center">
+
+![meatisdelicious's GitHub stats](https://github-readme-stats.vercel.app/api?username=meatisdelicious&show_icons=true&count_private=true&theme=chartreuse-dark)
+</p>
+
 <!--
 **Meatisdelicious/Meatisdelicious** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
