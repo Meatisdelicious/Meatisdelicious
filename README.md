@@ -10,13 +10,12 @@
 ![meatisdelicious's GitHub stats](https://github-readme-stats.vercel.app/api?username=meatisdelicious&show_icons=true&count_private=true&theme=chartreuse-dark)
 </p>
 
+<--
 ### Most Used Languages 
-
 <p align='center'>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meatisdelicious&langs_count=10&hide=Objective-C,M4,CMake&layout=compact&theme=chartreuse-dark)](https://github.com/meatisdelicious?tab=repositories)
-
 </p>
+-->
 
 
 
