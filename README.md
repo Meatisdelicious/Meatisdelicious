@@ -2,7 +2,7 @@
 
 
 ## About Me 
-- I'm currently studying Artificial intelligence at ESME Sudria in France
+- I'm currently studying Artificial Intelligence at ESME Sudria in France
 - I'm passionate about computer science, physics and their applications
 
 # Git Stats
