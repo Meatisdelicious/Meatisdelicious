@@ -43,6 +43,7 @@
 -   MachineLearning
 -   Python
 -   C#
+-   Asp.net Core Blazor Webassembly
 
 ## Contact Me 📫
 -   Mail : <a href="mailto:adrien.tirlemont@esme.fr"><img src="https://img.shields.io/badge/Adrien_Tirlemont-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="adrien.tirlemont@esme.fr"></a>
