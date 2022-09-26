@@ -2,7 +2,7 @@
 
 <br>
 
-## About Me 
+## About Me 🍁
 - Currently studying Artificial Intelligence at ESME Sudria in France.
 - I'm passionate about computer science, physics and their applications.
 
