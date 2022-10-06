@@ -37,10 +37,8 @@
 
 ## Currently Learning 🌱
 
--   AI
--   DeepLearning
--   MachineLearning
--   Python
+-   AI (Machine and Deep Learning)
+-   more Python
 -   Rust
 
 ## Contact Me 📫
