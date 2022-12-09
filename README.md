@@ -46,7 +46,7 @@
 -   Linkedin : [![Linkedin Badge](https://img.shields.io/badge/-Adrien_Tirlemont-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adrien-tirlemont-11593a168)
 
 
-![](https://komarev.com/ghpvc/?username=meatisdelicious&style=plastic)
+![](https://komarev.com/ghpvc/?username=meatisdelicious&style=plastic&color=blueviolet)
 
 
 
