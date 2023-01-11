@@ -1,8 +1,6 @@
 # Hi there 👋
 
-
 <br>
-
 
 ## About Me 🍁
 - Currently studying Artificial Intelligence at ESME Sudria in France.
