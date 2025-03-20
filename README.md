@@ -38,7 +38,8 @@
 
 ## Currently Learning 🌱
 
--   AI (Machine and Deep Learning)
+-   VIT and GANS.
+-   Algorithms
 -   more Python
 
 ## Contact Me 📫
