@@ -4,7 +4,7 @@
 
 
 ## About Me 🍁
-- Currently studying Artificial Intelligence at ESME Sudria in France.
+- Currently Working as a research Data Scientist at Advans Group
 - I'm passionate about computer science, drones and cool stuff.
 
 # Git Stats
