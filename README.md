@@ -38,7 +38,8 @@
 
 ## Currently Learning 🌱
 
--   VIT and GANS.
+-   Self-Supervised Learning in optical images change detection
+-   GenAI
 -   Algorithms
 -   more Python
 
