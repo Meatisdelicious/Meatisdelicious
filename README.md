@@ -8,6 +8,8 @@
 - I'm passionate about computer science, drones and cool stuff.
 
 
+
+
 ### Programming skills 🌳
 <p align="center">
 
