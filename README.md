@@ -26,7 +26,6 @@
 
 ## Currently Learning 🌱
 
--   Self-Supervised Learning in optical image change detection
 -   GenAI for medecine 
 -   Algorithms & data structures
 
